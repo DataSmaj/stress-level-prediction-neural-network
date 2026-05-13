@@ -1,0 +1,14 @@
+# Dataset Information
+
+The dataset used in this project was obtained from Kaggle.
+
+Dataset:
+General Mental Health and Lifestyle Dataset
+
+The dataset was not uploaded directly to this repository to avoid potential licensing and distribution issues.
+
+You can download the dataset here:
+
+https://www.kaggle.com/datasets/mabubakrsiddiq/general-mental-health-and-lifestyle-dataset?resource=download
+
+After downloading, place the dataset file inside this `data/` folder before running the notebook.
